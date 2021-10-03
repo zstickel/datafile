@@ -1,4 +1,4 @@
-ackage datafile
+package datafile
 
 import (
 	"bufio"
